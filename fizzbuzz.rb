@@ -8,7 +8,7 @@ else if num % 5 ==
   return "Buzz"
 else if num % 15 == 0 
   return "FizzBuzz"
-else if num % 3 && % 5 !==0 
+else num % 3 && % 5 !==0 
   return nil 
 end
 end
