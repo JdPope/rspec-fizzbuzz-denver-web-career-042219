@@ -6,9 +6,8 @@ def fizzbuzz(num)
   return "Fizz"
 else if num % 5 ==
   return "Buzz"
-else if num % 15 == 0 
+else num % 15 == 0 
   return "FizzBuzz"
-else num % 3 && % 5 !==0 
-  return nil 
+
 end
 end
