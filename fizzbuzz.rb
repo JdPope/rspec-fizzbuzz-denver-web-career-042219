@@ -4,7 +4,7 @@
 def fizzbuzz(num)
   if num % 3 == 0
   return "Fizz"
-else if num % 5 ==
+  else if num % 5 ==
   return "Buzz"
 
 
